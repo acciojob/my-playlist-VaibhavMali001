@@ -1,1 +1,36 @@
 /*  your css code here. If applicable */
+body{
+	background-color: rgb(204, 204, 204);
+}
+h1, h2{
+	text-align:center;
+}
+
+.container{
+	border: 2px solid;
+	border-radius:10px;
+	margin: 40px;
+	background-color: #ffffff;
+}
+
+ul li{
+	list-style-type: none;
+}
+
+ul li a{
+	text-decoration-line:  none;
+	color: black;
+}
+
+.container-2{
+	border: 2px solid;
+	border-radius: 10px;
+	margin: 0px 100px;
+	background-color: #ffffff;
+	padding: 10px;
+}
+
+.container-2 > video, .container-2 > audio{
+	width: 100%;
+}
+
