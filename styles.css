@@ -27,10 +27,13 @@ ul li a{
 	border-radius: 10px;
 	margin: 0px 100px;
 	background-color: #ffffff;
-	padding: 10px;
+	padding: 20px;
 }
 
-.container-2 > video, .container-2 > audio{
+.player_one .player-two{
 	width: 100%;
+	background-color: white;
+	border-radiu: 10px
+	padding: 20px
 }
 
